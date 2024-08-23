@@ -53,7 +53,7 @@ class MyWidget extends StatelessWidget {
               onPressed: () {
                 print("Outlined Button Pressed");
               },
-              child: const Text("Outline"),
+              child: const Text("Outline..........."),
             ),
           ],
         ),
